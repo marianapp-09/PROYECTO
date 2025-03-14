@@ -1,0 +1,20 @@
+body{
+    background-color:lightpink;
+    color:black;
+    background-image: url("images.png");
+    background-repeat: no-repeat;
+}
+h1{
+    color: darkred;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 3px #92a9bf;
+}
+.fuente time{
+    font-family: 'time'}
+.fuente georgias{
+    font-family: 'georgias'
+}
+. fuente arial{
+    font-family: 'arial'
+}
